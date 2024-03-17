@@ -1,0 +1,16 @@
+.box1,.box2,.box3,.box4{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    margin-left: 2%;
+}
+.megabox{
+    height: 100%;
+    width: 100%;
+
+}
+.superbox{
+    margin-top: 10%;
+    display: flex;
+    flex-wrap: wrap;
+}
